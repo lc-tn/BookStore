@@ -1,0 +1,60 @@
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Services\bin\Debug\net6.0\Services.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Services\bin\Debug\net6.0\Repositories.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Services\bin\Debug\net6.0\Repositories.pdb
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Services\bin\Debug\net6.0\Services.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Services\bin\Debug\net6.0\Repositories.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Services\bin\Debug\net6.0\Repositories.pdb
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Services\obj\Debug\net6.0\Services.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Services\obj\Debug\net6.0\ref\Services.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Services\bin\Debug\net6.0\Services.deps.json
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Services\bin\Debug\net6.0\Services.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Services\bin\Debug\net6.0\Services.pdb
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Services\bin\Debug\net6.0\Repositories.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Services\bin\Debug\net6.0\Repositories.pdb
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Services\obj\Debug\net6.0\Services.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Services\obj\Debug\net6.0\refint\Services.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Services\obj\Debug\net6.0\Services.pdb
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Services\bin\Debug\net6.0\Services.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Services\bin\Debug\net6.0\Repositories.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Services\bin\Debug\net6.0\Repositories.pdb
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Services\obj\Debug\net6.0\Services.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Services\obj\Debug\net6.0\ref\Services.dll

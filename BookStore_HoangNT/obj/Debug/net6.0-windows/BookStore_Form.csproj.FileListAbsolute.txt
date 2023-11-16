@@ -1,0 +1,291 @@
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.exe
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.deps.json
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.runtimeconfig.json
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.pdb
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Repositories.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Services.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Services.pdb
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\bin\Debug\net6.0-windows\Repositories.pdb
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.csproj.AssemblyReference.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_HoangNT.BookCategoryForm.resources
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_HoangNT.BookForm.resources
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_HoangNT.BookManagerForm.resources
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_HoangNT.LoginForm.resources
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.Properties.Resources.resources
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.csproj.GenerateResource.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.AssemblyInfoInputs.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.AssemblyInfo.cs
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.csproj.CoreCompileInputs.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.csproj.CopyComplete
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\obj\Debug\net6.0-windows\refint\BookStore_Form.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.pdb
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.genruntimeconfig.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\BookStore_HoangNT\obj\Debug\net6.0-windows\ref\BookStore_Form.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.exe
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.deps.json
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.runtimeconfig.json
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.pdb
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Repositories.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Services.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Services.pdb
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\bin\Debug\net6.0-windows\Repositories.pdb
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.csproj.AssemblyReference.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_HoangNT.BookCategoryForm.resources
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_HoangNT.BookForm.resources
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_HoangNT.BookManagerForm.resources
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_HoangNT.LoginForm.resources
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.csproj.GenerateResource.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.AssemblyInfoInputs.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.AssemblyInfo.cs
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.csproj.CoreCompileInputs.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.csproj.CopyComplete
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\obj\Debug\net6.0-windows\refint\BookStore_Form.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.pdb
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.genruntimeconfig.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\BookStore_HoangNT\obj\Debug\net6.0-windows\ref\BookStore_Form.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\appsettings.json
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.exe
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.deps.json
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.runtimeconfig.json
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.pdb
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Repositories.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Services.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Services.pdb
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Repositories.pdb
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.csproj.AssemblyReference.cache
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_HoangNT.BookCategoryForm.resources
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_HoangNT.BookForm.resources
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_HoangNT.BookManagerForm.resources
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_HoangNT.LoginForm.resources
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.csproj.GenerateResource.cache
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.AssemblyInfoInputs.cache
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.AssemblyInfo.cs
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.csproj.CoreCompileInputs.cache
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.csproj.CopyComplete
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\refint\BookStore_Form.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.pdb
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.genruntimeconfig.cache
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\ref\BookStore_Form.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.Properties.Resources.resources
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.exe
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.deps.json
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.runtimeconfig.json
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\BookStore_Form.pdb
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Repositories.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Services.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Services.pdb
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\bin\Debug\net6.0-windows\Repositories.pdb
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.csproj.AssemblyReference.cache
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_HoangNT.BookCategoryForm.resources
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_HoangNT.BookForm.resources
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_HoangNT.BookManagerForm.resources
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_HoangNT.LoginForm.resources
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.Properties.Resources.resources
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.csproj.GenerateResource.cache
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.AssemblyInfoInputs.cache
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.AssemblyInfo.cs
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.csproj.CoreCompileInputs.cache
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.csproj.CopyComplete
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\refint\BookStore_Form.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.pdb
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\BookStore_Form.genruntimeconfig.cache
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\BookStore_HoangNT\obj\Debug\net6.0-windows\ref\BookStore_Form.dll

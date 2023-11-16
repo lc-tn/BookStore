@@ -1,0 +1,56 @@
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\PE_PRN211_FA23_HOANGNT\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\Lc_Tn\Desktop\ALL\FPTU\2023 FALL\PRN211\Group2_BookStore\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+D:\FPT University\PRN211\Group2_BookStore-main\Group2_BookStore-main\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\Lc_Tn\Desktop\ALL\Group2_BookStore-main\Repositories\obj\Debug\net6.0\ref\Repositories.dll
