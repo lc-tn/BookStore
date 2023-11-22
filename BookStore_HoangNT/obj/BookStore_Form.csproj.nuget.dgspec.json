@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\BookStore_HoangNT\\BookStore_Form.csproj": {}
+    "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\BookStore_HoangNT\\BookStore_Form.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\BookStore_HoangNT\\BookStore_Form.csproj": {
+    "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\BookStore_HoangNT\\BookStore_Form.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\BookStore_HoangNT\\BookStore_Form.csproj",
+        "projectUniqueName": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\BookStore_HoangNT\\BookStore_Form.csproj",
         "projectName": "BookStore_Form",
-        "projectPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\BookStore_HoangNT\\BookStore_Form.csproj",
+        "projectPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\BookStore_HoangNT\\BookStore_Form.csproj",
         "packagesPath": "C:\\Users\\Lc_Tn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\BookStore_HoangNT\\obj\\",
+        "outputPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\BookStore_HoangNT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lc_Tn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\Services\\Services.csproj"
+              "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\Services\\Services.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\Repositories\\Repositories.csproj",
+        "projectPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\Lc_Tn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\Repositories\\obj\\",
+        "outputPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lc_Tn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -151,14 +151,14 @@
         }
       }
     },
-    "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\Services\\Services.csproj": {
+    "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\Lc_Tn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\Services\\obj\\",
+        "outputPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lc_Tn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -175,8 +175,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\Repositories\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\Repositories\\Repositories.csproj"
+              "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\Repositories\\Repositories.csproj"
               }
             }
           }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\Repositories\\Repositories.csproj": {}
+    "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\Repositories\\Repositories.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\Repositories\\Repositories.csproj",
+        "projectPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\Lc_Tn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\Group2_BookStore-main\\Repositories\\obj\\",
+        "outputPath": "C:\\Users\\Lc_Tn\\Desktop\\ALL\\FPTU\\Group2_BookStore\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lc_Tn\\AppData\\Roaming\\NuGet\\NuGet.Config",
